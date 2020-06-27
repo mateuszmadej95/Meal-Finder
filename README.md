@@ -1,0 +1,1 @@
+It is a very useful JS app where you can find a meal along with the recipe and ingredients. We can type our own name or try the random search button. I used https://www.themealdb.com/ api to get the data for the app. Feel free to use this awesome app on https://madej-mealfinder.netlify.app/
